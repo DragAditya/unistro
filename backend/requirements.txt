@@ -1,10 +1,10 @@
 # UniStro Backend Dependencies — latest stable as of 2025
-fastapi==0.115.6
 uvicorn[standard]==0.32.1
 aiosqlite==0.20.0
 telethon==1.37.0
 Pillow==11.1.0
 python-multipart==0.0.20
 python-dotenv==1.0.1
-pydantic==2.10.4
+pydantic==2.8.2
+fastapi==0.111.0
 cryptg==0.4.0
